@@ -2,7 +2,7 @@ git initNama : Noval Oktamuza
 
 NIM : 24090011
 
-Link Github Repository : 
+Link Github Repository : https://github.com/kyouo/UTS_Noval_24090011
 
 Link Github Pages : 
 
